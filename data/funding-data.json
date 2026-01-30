@@ -1,0 +1,311 @@
+{
+  "entities": {
+    "Norway": {
+      "type": "country",
+      "description": "Norway's Government Pension Fund Global (sovereign wealth fund) now exceeds $2 trillion, equivalent to $385,000 per citizen. Built from oil revenues since 1990.",
+      "relevance": "Model for Scotland's proposed Wealth Fund"
+    },
+    "Norwegian": {
+      "type": "country",
+      "description": "Norway's Government Pension Fund Global now exceeds $2 trillion, equivalent to $385,000 per citizen.",
+      "relevance": "Model for Scotland's proposed Wealth Fund"
+    },
+    "Estonia": {
+      "type": "country",
+      "description": "Population 1.3 million. World's most advanced digital government - 99% of public services accessible online 24/7. Digital ID, transparent government spending.",
+      "relevance": "Model for Scotland's digital democracy reforms"
+    },
+    "ScotWind": {
+      "type": "initiative",
+      "description": "Scotland's offshore wind leasing round. Raised £700m in option fees alone. Adds 28 GW capacity to Scotland's renewable energy potential.",
+      "relevance": "Key revenue source for proposed Scottish Wealth Fund"
+    },
+    "Crown Estate Scotland": {
+      "type": "organisation",
+      "description": "Manages seabed leases for offshore wind. Current revenues ~£100m/year, projected to rise to £1-2bn with full development.",
+      "relevance": "Revenue source for Scottish Wealth Fund"
+    },
+    "Land Value Tax": {
+      "type": "policy",
+      "description": "Tax on land value rather than property or income. Would replace Council Tax. 60-70% of Scottish households would pay nothing. Revenue estimate: £2-5bn annually.",
+      "relevance": "Key funding mechanism - shifts tax from workers to wealth"
+    },
+    "LVT": {
+      "type": "policy",
+      "description": "Land Value Tax - tax on land value rather than property. Would replace Council Tax. 60-70% of households pay nothing.",
+      "relevance": "Key funding mechanism - shifts tax from workers to wealth"
+    },
+    "Danish": {
+      "type": "country",
+      "description": "Denmark uses land value taxation and has universal childcare. 1.4% of GDP spent on early childhood. Higher workforce participation and birth rates than UK.",
+      "relevance": "Model for land tax and childcare policies"
+    },
+    "Denmark": {
+      "type": "country",
+      "description": "Denmark uses land value taxation and has universal childcare. 1.4% of GDP spent on early childhood.",
+      "relevance": "Model for land tax and childcare policies"
+    },
+    "Sweden": {
+      "type": "country",
+      "description": "Universal childcare since the 1970s. Female workforce participation 80% vs UK's 72%. For every £1 spent on early years, £2-4 returns to the economy.",
+      "relevance": "Model for childcare policy"
+    },
+    "Iceland": {
+      "type": "country",
+      "description": "Four-day week trials 2015-2019 with 2,500 workers showed productivity maintained or improved. Now 86% of workers have reduced hours or right to negotiate them.",
+      "relevance": "Model for four-day week implementation"
+    },
+    "Icelandic": {
+      "type": "country",
+      "description": "Iceland's 2015-2019 four-day week trials showed productivity maintained. 86% now have reduced hours or right to negotiate them.",
+      "relevance": "Model for four-day week implementation"
+    },
+    "Switzerland": {
+      "type": "country",
+      "description": "Life sciences sector contributes 5.7% of GDP and 30% of exports - over £80 billion annually. Model for 'science superpower' strategy.",
+      "relevance": "Model for life sciences export strategy"
+    },
+    "Israel": {
+      "type": "country",
+      "description": "1,600 life sciences companies, attracts over £1 billion in biotech investment annually despite similar population to Scotland. Yozma program invested $100m, catalysed $10bn+ VC industry.",
+      "relevance": "Model for science investment fund"
+    },
+    "433 landowners": {
+      "type": "statistic",
+      "description": "433 landowners control half of Scotland's private rural land. Many inherited it, many pay little tax. Land Value Tax would generate £300-500m annually from large estates.",
+      "relevance": "Key target for land reform"
+    },
+    "six billionaires": {
+      "type": "media",
+      "description": "Six billionaires own 90% of UK print media: The Sun, Times, Telegraph, Mail, Express. Most are non-domiciled for tax. Would pay millions more under Land Value Tax.",
+      "relevance": "Explains media opposition to these policies"
+    },
+    "Rupert Murdoch": {
+      "type": "person",
+      "description": "Owner of News UK (The Sun, The Times). Non-domiciled for UK tax purposes. Estimated UK land holdings would face significant LVT liability.",
+      "funding_source": "News Corp revenue",
+      "relevance": "Major media owner opposing land/wealth taxes"
+    },
+    "BBC": {
+      "type": "media",
+      "description": "Licence fee set by Westminster. Board appointed by UK government. Over 80% of staff based in England, only 7% in Scotland. UWS study found 2014 referendum coverage favoured No 3:2.",
+      "relevance": "Structural bias toward maintaining UK status quo"
+    },
+    "Reform UK": {
+      "type": "political",
+      "description": "Three-quarters of funding from just three wealthy men. Over half of donations from people with homes in low-tax jurisdictions or offshore interests. Leaders include Farage (Dulwich College, City trader) and Tice (property developer, £40m).",
+      "funding_source": "Hedge funds, property developers, offshore financiers",
+      "relevance": "Example of wealthy interests funding 'anti-establishment' politics"
+    },
+    "Nigel Farage": {
+      "type": "person",
+      "description": "Leader of Reform UK. Attended Dulwich College (£22k/year fees). Former City commodities trader. Party funded primarily by three wealthy donors with offshore interests.",
+      "funding_source": "Reform UK (hedge funds, offshore wealth)",
+      "relevance": "Presents as anti-establishment while serving wealthy interests"
+    },
+    "Richard Tice": {
+      "type": "person",
+      "description": "Reform UK chairman. Property developer worth £40 million. Grandfather was one of Britain's biggest property tycoons. Has claimed 'no evidence' CO2 causes climate change.",
+      "funding_source": "Property development wealth",
+      "relevance": "Would pay significantly more under Land Value Tax"
+    },
+    "Institute of Economic Affairs": {
+      "type": "think_tank",
+      "description": "Refuses to disclose donors. Regularly quoted as 'independent' while promoting policies benefiting corporations. Opposes land value taxation and wealth taxes.",
+      "funding_source": "Undisclosed - linked to fossil fuel and corporate interests",
+      "relevance": "Example of dark money influencing policy debate"
+    },
+    "Taxpayers' Alliance": {
+      "type": "think_tank",
+      "description": "Sounds grassroots but founded by political operatives and funded by wealthy individuals. Campaigns against taxes that would affect wealthy donors.",
+      "funding_source": "Wealthy individuals (partially disclosed)",
+      "relevance": "Astroturf organisation opposing wealth taxation"
+    },
+    "Adam Smith Institute": {
+      "type": "think_tank",
+      "description": "Free-market think tank. Presents as neutral expertise while pushing policies benefiting corporate funders. Opposes regulation and progressive taxation.",
+      "funding_source": "Corporate and individual donors",
+      "relevance": "Ideological opposition to wealth redistribution"
+    },
+    "Roslin Institute": {
+      "type": "research",
+      "description": "Created Dolly the sheep (1996). World leader in genetics, stem cell research, and animal health. Based at University of Edinburgh.",
+      "relevance": "Key asset for 'science superpower' strategy"
+    },
+    "Edinburgh BioQuarter": {
+      "type": "research",
+      "description": "One of UK's largest health innovation campuses, adjacent to Royal Infirmary. Major hub for life sciences commercialisation.",
+      "relevance": "Infrastructure for life sciences growth"
+    },
+    "CRUK": {
+      "type": "research",
+      "description": "Cancer Research UK Scotland Centre: 80+ research teams across Edinburgh and Glasgow. Focuses on cancers affecting Scots (lung, bowel, pancreatic).",
+      "relevance": "Key research asset"
+    },
+    "Cancer Research UK": {
+      "type": "research",
+      "description": "Scotland Centre has 80+ research teams across Edinburgh and Glasgow, focusing on cancers affecting Scots.",
+      "relevance": "Key research asset for life sciences strategy"
+    },
+    "£125 billion": {
+      "type": "statistic",
+      "description": "Energy company profits on UK operations since energy crisis began (over £500bn globally). While household bills doubled, shareholders got rich.",
+      "relevance": "Wealth that could fund cheaper Scottish energy"
+    },
+    "44,453": {
+      "type": "statistic",
+      "description": "Number of homes in Scotland empty for 6+ months. Another 21,606 are second homes. Meanwhile, 10 local authorities have declared housing emergencies.",
+      "relevance": "Target for empty homes taxation"
+    },
+    "triple lock": {
+      "type": "policy",
+      "description": "State pension rises by highest of: inflation, wage growth, or 2.5%. Adds £12bn annually above wage indexation. Benefits current pensioners at expense of future generations.",
+      "relevance": "Example of intergenerational unfairness"
+    },
+    "Scotch whisky": {
+      "type": "industry",
+      "description": "Scotland's largest export: £5.4bn in 2024 (26% of all Scottish goods exports). 152 distilleries, 41,000 direct jobs. 70% of bottle price goes to tax. 22 million casks maturing.",
+      "relevance": "Key industry requiring trade policy support"
+    },
+    "Scot2Ger": {
+      "type": "infrastructure",
+      "description": "Proposed hydrogen pipeline from Scotland to Germany. Part of broader hydrogen export strategy to Germany, Netherlands, Belgium. Could support 300,000 jobs and £25bn GVA by 2045.",
+      "relevance": "Key infrastructure for Wealth Fund revenue"
+    },
+    "H100 Fife": {
+      "type": "project",
+      "description": "World's first 100% renewable hydrogen network. 300 homes heated by hydrogen from 5MW electrolyser. Demonstrator project for hydrogen heating.",
+      "relevance": "Pioneering hydrogen infrastructure"
+    },
+    "Queens Quay Clydebank": {
+      "type": "project",
+      "description": "UK's largest water-source heat pump district heating system. Heats 1,200 homes and businesses using water from the River Clyde.",
+      "relevance": "Model for district heating rollout"
+    },
+    "Microsoft Japan": {
+      "type": "company",
+      "description": "Reported 40% productivity increase during four-day week trial. Staff worked 20% less time but output increased.",
+      "relevance": "Evidence for four-day week productivity"
+    },
+    "New Zealand": {
+      "type": "country",
+      "description": "Banned foreign non-residents from buying existing homes in 2018. Part of Wellbeing Economy Governments partnership alongside Scotland.",
+      "relevance": "Model for housing investment restrictions"
+    },
+    "Canada": {
+      "type": "country",
+      "description": "Implemented two-year foreign buyer ban (2023-2025) on residential property. Provincial Nominee Program allows regions to select immigrants based on local needs.",
+      "relevance": "Models for housing policy and immigration"
+    },
+    "Singapore": {
+      "type": "country",
+      "description": "Charges 60% stamp duty for foreign residential property buyers. Central Provident Fund provides retirement security through mandatory savings.",
+      "relevance": "Models for housing restrictions and wealth fund"
+    },
+    "GERS": {
+      "type": "data",
+      "description": "Government Expenditure and Revenue Scotland. Shows £26.2bn deficit (11.6% GDP) but includes Scotland's share of UK debt interest, defence, reserved spending. Does not reflect independent Scotland's finances.",
+      "relevance": "Often misused to argue against independence"
+    },
+    "Citizen's Dividend": {
+      "type": "policy",
+      "description": "Annual payment to every Scottish citizen from Wealth Fund returns. Projected: £500-1,000/year initially, £2,000-3,000/year by Year 20, potentially £1,000-1,500/person by 2045.",
+      "relevance": "Universal benefit from national wealth"
+    },
+    "Minimum Income Guarantee": {
+      "type": "policy",
+      "description": "Scottish Government consultation (June 2025). Ensures no resident lives below poverty line. Simpler than current benefits, no cruel sanctions. Pathway to Universal Basic Income.",
+      "relevance": "Key anti-poverty policy"
+    },
+    "MIG": {
+      "type": "policy",
+      "description": "Minimum Income Guarantee - Scottish Government consultation ensuring no resident lives below poverty line. Pathway to UBI.",
+      "relevance": "Key anti-poverty policy"
+    },
+    "four-day week": {
+      "type": "policy",
+      "description": "32 hours over 4 days at full pay. UK 2022 pilot: 61 companies, 56 continued. Staff reported less stress, company revenue stable or improved. Iceland trials: productivity maintained, 86% now have reduced hours.",
+      "relevance": "Key quality of life improvement"
+    },
+    "Scottish Child Payment": {
+      "type": "policy",
+      "description": "Currently £26.70/week per eligible child. Proposal to double to £55/week by 2031. Helps lift children out of poverty.",
+      "relevance": "Existing Scottish anti-poverty measure"
+    },
+    "Home Energy Scotland": {
+      "type": "programme",
+      "description": "Grants up to £7,500 for heat pumps + £7,500 for insulation (£9,000 each for rural homes). Interest-free loans for remaining costs. Free improvements for fuel-poor households.",
+      "relevance": "Existing retrofit support"
+    },
+    "ECO4": {
+      "type": "programme",
+      "description": "UK scheme providing 100% FREE heat pump, insulation and solar for eligible low-income households. Available now.",
+      "relevance": "Existing free retrofit for eligible households"
+    },
+    "Warmer Homes Scotland": {
+      "type": "programme",
+      "description": "£10,000+ of free home energy improvements for fuel-poor households. Part of Scotland's fuel poverty strategy.",
+      "relevance": "Existing free retrofit programme"
+    },
+    "National Housing Company": {
+      "type": "policy",
+      "description": "Proposed public body to build 20,000+ social homes annually. Would help cap housing costs at 25% of median income.",
+      "relevance": "Key housing affordability mechanism"
+    },
+    "Scottish Wealth Fund": {
+      "type": "policy",
+      "description": "Proposed sovereign wealth fund modelled on Norway's. Funded by renewable energy revenues, seabed leases, hydrogen exports. Projected £100-200bn by 2045.",
+      "relevance": "Central mechanism for long-term prosperity"
+    },
+    "transmission charges": {
+      "type": "issue",
+      "description": "Scottish wind farms pay £5.54/MWh to connect to grid. Welsh wind farms get PAID £2.80/MWh. Punishes Scotland for being far from London despite generating clean energy UK needs.",
+      "relevance": "Key barrier to cheap Scottish energy"
+    },
+    "grouse moors": {
+      "type": "land_use",
+      "description": "Sporting estates producing no food, employing few people relative to size. Exist primarily for recreation of wealthy. Would pay 1.5-2% LVT annually (£450-600k/year for 20,000ha estate).",
+      "relevance": "Key target for land value taxation"
+    },
+    "A9": {
+      "type": "infrastructure",
+      "description": "Scotland's most dangerous trunk road (Perth to Inverness). Dualling promised by 2025, repeatedly delayed. Disproportionate fatal collisions on single-carriageway sections.",
+      "relevance": "Key rural infrastructure need"
+    },
+    "CalMac": {
+      "type": "transport",
+      "description": "Ferry operator serving Scottish islands. Ageing fleet causing delays and cancellations. Road Equivalent Tariff not applied to all routes, making island life expensive.",
+      "relevance": "Key rural connectivity issue"
+    },
+    "Road Equivalent Tariff": {
+      "type": "policy",
+      "description": "Prices ferry travel at roughly same cost per mile as driving. Applied to some routes but not all. Full RET would cut island travel costs dramatically.",
+      "relevance": "Key policy for island communities"
+    },
+    "RET": {
+      "type": "policy",
+      "description": "Road Equivalent Tariff - prices ferry travel at same cost per mile as driving. Would make island life economically viable.",
+      "relevance": "Key policy for island communities"
+    },
+    "Erasmus+": {
+      "type": "programme",
+      "description": "EU student exchange programme. 2,000+ Scottish students per year lost access after Brexit. Would be restored with EU/Single Market membership.",
+      "relevance": "Lost opportunity from Brexit"
+    },
+    "freedom of movement": {
+      "type": "policy",
+      "description": "EU right to live, work, study, retire anywhere in 27 countries. Lost after Brexit. Would be restored with EU membership or Single Market access.",
+      "relevance": "Key benefit of European integration"
+    },
+    "WEGo": {
+      "type": "organisation",
+      "description": "Wellbeing Economy Governments partnership. Founding members: Scotland, Iceland, New Zealand, Wales, Finland. Recognises GDP is poor measure of success.",
+      "relevance": "Scotland's commitment to wellbeing economics"
+    },
+    "Wellbeing Economy": {
+      "type": "framework",
+      "description": "Economic framework prioritising collective wellbeing over GDP growth. Scotland is founding member of WEGo alongside Iceland, New Zealand, Wales, Finland.",
+      "relevance": "Underlying philosophy of this vision"
+    }
+  }
+}

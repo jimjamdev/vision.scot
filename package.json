@@ -4,14 +4,19 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "build": "npm run generate-pdf && next build",
+    "generate-pdf": "node scripts/generate-pdf.mjs",
     "start": "next start",
     "lint": "eslint"
   },
   "dependencies": {
+    "@radix-ui/react-popover": "^1.1.15",
+    "md-to-pdf": "^5.2.5",
     "next": "16.1.6",
     "react": "19.2.3",
-    "react-dom": "19.2.3"
+    "react-dom": "19.2.3",
+    "react-markdown": "^10.1.0",
+    "remark-gfm": "^4.0.1"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
