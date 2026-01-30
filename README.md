@@ -1,36 +1,129 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# vision.scot
+
+A comprehensive policy framework for building a happier, fairer, and more prosperous Scotland through technology, renewable wealth, and progressive policy reform.
+
+**Less Tax, Less Work, More Life**
+
+## About
+
+This website presents "A Vision for a Better Scotland" - a detailed policy document covering:
+
+- **Scottish Wealth Fund** - Capturing renewable energy wealth, modelled on Norway
+- **Land Value Tax** - Shifting taxation from labour to land and wealth
+- **Four-Day Week** - 32 hours at full pay, proven internationally
+- **Affordable Housing** - Costs capped at 25% of income
+- **Cheaper Energy** - Scottish Energy Tariff at 15p/kWh
+- **Digital Democracy** - Estonia-style transparent government
+
+## Features
+
+- **Interactive Tooltips** - Hover over highlighted terms (in amber) to see funding sources, international examples, and context
+- **Mobile Friendly** - Fully responsive design
+- **PDF Download** - Generated automatically from the policy markdown
+- **Dark Mode** - Respects system preferences
+
+## Tech Stack
+
+- [Next.js 16](https://nextjs.org/) - React framework
+- [Tailwind CSS 4](https://tailwindcss.com/) - Styling
+- [Radix UI](https://www.radix-ui.com/) - Accessible popover components
+- [react-markdown](https://github.com/remarkjs/react-markdown) - Markdown rendering
+- [md-to-pdf](https://github.com/simonhaenisch/md-to-pdf) - PDF generation
+
+## Project Structure
+
+```
+vision.scot/
+├── app/
+│   ├── page.tsx          # Homepage
+│   ├── policy/
+│   │   └── page.tsx      # Full policy document
+│   ├── layout.tsx        # Root layout
+│   └── globals.css       # Global styles
+├── components/
+│   ├── Header.tsx        # Navigation
+│   ├── Footer.tsx        # Site footer
+│   ├── Tooltip.tsx       # Interactive tooltips (Radix Popover)
+│   ├── PolicyContent.tsx # Markdown renderer with tooltips
+│   └── ShareButtons.tsx  # Copy link & PDF download
+├── content/
+│   └── policy.md         # The policy document (markdown)
+├── data/
+│   └── funding-data.json # Tooltip data (60+ entities)
+├── scripts/
+│   ├── generate-pdf.mjs  # PDF generation script
+│   └── pdf-styles.css    # PDF styling
+└── public/
+    └── vision-scotland-policy.pdf  # Generated PDF
+```
 
 ## Getting Started
 
-First, run the development server:
-
 ```bash
+# Install dependencies
+npm install
+
+# Run development server
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+
+# Open http://localhost:3000
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Building
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```bash
+# Build for production (includes PDF generation)
+npm run build
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+# Start production server
+npm start
+```
 
-## Learn More
+## PDF Generation
 
-To learn more about Next.js, take a look at the following resources:
+The PDF is automatically generated from `content/policy.md` during build:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+```bash
+# Generate PDF manually
+npm run generate-pdf
+```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+The PDF includes:
+- vision.scot branding at the top
+- Styled tables, headings, and blockquotes
+- A4 format with proper margins
 
-## Deploy on Vercel
+## Adding Tooltip Data
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Edit `data/funding-data.json` to add new terms. Each entity has:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+```json
+{
+  "Term Name": {
+    "type": "country|policy|person|organisation|etc",
+    "description": "What this term means",
+    "relevance": "Why it matters to Scotland",
+    "funding_source": "Optional: who funds this"
+  }
+}
+```
+
+Terms are automatically matched in the policy content and displayed with interactive tooltips.
+
+## Deployment
+
+Deploy to Vercel, Netlify, or any platform supporting Next.js:
+
+```bash
+npm run build
+```
+
+The site is fully static and can be deployed to any static hosting.
+
+## License
+
+Content: All rights reserved
+
+## Version
+
+1.14 - January 2026
