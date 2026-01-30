@@ -23,7 +23,7 @@ Before you read 50 pages of policy, here's what this actually means for your lif
 | **Pension** | Safe. Plus a Citizen's Dividend from Scotland's Wealth Fund. |
 | **Your Farm** | No land tax on working farms. The tax hits grouse moors and tax shelters — not food producers. |
 
-None of this is fantasy. Every single policy exists somewhere today — Norway, Denmark, Iceland, Estonia, Germany. The only reason we don't have them is because the people who'd lose out own the newspapers.
+> ✅ None of this is fantasy. Every single policy exists somewhere today — Norway, Denmark, Iceland, Estonia, Germany. The only reason we don't have them is because the people who'd lose out own the newspapers.
 
 ---
 
@@ -31,15 +31,15 @@ None of this is fantasy. Every single policy exists somewhere today — Norway, 
 
 You might be wondering: if these ideas are so good, why haven't I heard them before?
 
-Because the people who'd pay more under these policies are the same people who control what you read and hear.
+> ⚠️ Because the people who'd pay more under these policies are the same people who control what you read and hear.
 
 **Six billionaires** own 90% of UK print media. The Sun, The Times, The Telegraph, The Mail, The Express — all owned by billionaires or their families. Most are non-domiciled for tax purposes, meaning they don't pay UK tax on their worldwide income. A Land Value Tax would cost them millions. A Wealth Fund built from public resources would mean less private profit. Of course they don't give these ideas airtime.
 
-The BBC is not neutral — it cannot be. The licence fee is set by Westminster. The board is appointed by the UK government. Over 80% of BBC staff are based in England, with just 7% in Scotland. A University of the West of Scotland study found that during the 2014 referendum, BBC Scotland's coverage favoured No arguments by a ratio of 3:2.
+> 💡 The BBC is not neutral — it cannot be. The licence fee is set by Westminster. The board is appointed by the UK government. Over 80% of BBC staff are based in England, with just 7% in Scotland. A University of the West of Scotland study found that during the 2014 referendum, BBC Scotland's coverage favoured No arguments by a ratio of 3:2.
 
 **"Think tanks"** are often lobbying groups in disguise. When you see an "expert" on TV explaining why Land Value Tax is unworkable, ask who funds them. The Institute of Economic Affairs, the Taxpayers' Alliance, the Adam Smith Institute — many refuse to disclose their donors. Those that do reveal funding from property developers, fossil fuel companies, and inherited wealth.
 
-**433 landowners** control half of Scotland's rural land. Many inherited it. Many pay little or no tax on it. A Land Value Tax would cost them hundreds of thousands per year. They have lawyers, lobbyists, and friends in Parliament. You have a vote.
+> 🔑 **433 landowners** control half of Scotland's rural land. Many inherited it. Many pay little or no tax on it. A Land Value Tax would cost them hundreds of thousands per year. They have lawyers, lobbyists, and friends in Parliament. You have a vote.
 
 **Energy companies** made over £125 billion in profits on UK operations since the energy crisis began. While your bills doubled, their shareholders got rich. A Scottish energy market that kept prices linked to production costs would end this.
 
@@ -127,25 +127,25 @@ Scotland's founding membership of the Wellbeing Economy Governments partnership 
 | **Land** | 433 landowners control 50% of rural land. LVT potential: £1bn+ annually |
 | **Education** | World-class universities, 65,000+ energy workers |
 
-Norway's oil fund now exceeds $2 trillion — $385,000 per citizen. Scotland's renewable energy potential is proportionally even greater, and unlike oil, it is inexhaustible.
+> 💡 Norway's oil fund now exceeds $2 trillion — $385,000 per citizen. Scotland's renewable energy potential is proportionally even greater, and unlike oil, it is inexhaustible.
 
 ---
 
 ## 2. The Vision: What Life Could Look Like
 
-*Imagine Scotland in 2040:*
+> 📖 **Imagine Scotland in 2040...**
+>
+> Sarah wakes at 7am in her warm, draught-free home in Aviemore. The heat pump clicks on quietly — her energy bill last month was £45. It's Friday, which means the weekend starts now: her company moved to a four-day week in 2032, and productivity actually went up.
+>
+> She checks her phone — her Citizen's Dividend of £120 has arrived, her share of the Scottish Wealth Fund that now stands at £140 billion.
+>
+> Her daughter Eilidh, 4, goes to the free nursery down the road. Her son Jamie, 17, is doing a Graduate Apprenticeship with a wind turbine manufacturer, earning while he learns.
+>
+> Sarah's parents live in Ullapool. Housing costs are capped at 25% of income. When her mum needed a hip replacement, the wait was eight weeks, not eighteen months.
+>
+> This weekend, she'll drive up to see them in her EV, charged overnight for the cost of a coffee. The A9 is dualled now. She checks the government spending dashboard — every pound traceable.
 
-Sarah wakes at 7am in her warm, draught-free home in Aviemore. The heat pump clicks on quietly — her energy bill last month was £45. It's Friday, which means the weekend starts now: her company moved to a four-day week in 2032, and productivity actually went up.
-
-She checks her phone — her Citizen's Dividend of £120 has arrived, her share of the Scottish Wealth Fund that now stands at £140 billion.
-
-Her daughter Eilidh, 4, goes to the free nursery down the road. Her son Jamie, 17, is doing a Graduate Apprenticeship with a wind turbine manufacturer, earning while he learns.
-
-Sarah's parents live in Ullapool. Housing costs are capped at 25% of income. When her mum needed a hip replacement, the wait was eight weeks, not eighteen months.
-
-This weekend, she'll drive up to see them in her EV, charged overnight for the cost of a coffee. The A9 is dualled now. She checks the government spending dashboard — every pound traceable.
-
-**This is not fantasy. Every element exists somewhere today — in Norway, Denmark, Estonia, Iceland.**
+> ✅ **This is not fantasy.** Every element exists somewhere today — in Norway, Denmark, Estonia, Iceland.
 
 ### 2.1 Work That Works For You
 
@@ -249,7 +249,7 @@ Council Tax is a regressive relic based on 1991 valuations. We propose abolishin
 | £400k-£1m | 0.3% | £1,200-3,000 |
 | Over £1m | 0.5% | £5,000+ |
 
-**Result:** 60-70% of Scottish households pay nothing. Average family saves £1,200-1,500/year.
+> ✅ **Result:** 60-70% of Scottish households pay nothing. Average family saves £1,200-1,500/year.
 
 #### Protecting Working Farmers
 
@@ -291,7 +291,7 @@ Key principle: **AI augments human workers, it does not replace them.**
 
 Scotland generates more renewable electricity than it consumes — 38.4 TWh produced, 14 TWh consumed. We export £1.5 billion worth. Yet Scottish households pay Europe's highest bills.
 
-**The Scandal:** A wind farm in northern Scotland pays £5.54/MWh to connect. A Welsh wind farm gets **paid** £2.80/MWh.
+> ⚠️ **The Scandal:** A wind farm in northern Scotland pays £5.54/MWh to connect. A Welsh wind farm gets **paid** £2.80/MWh.
 
 **Current vs Scottish System:**
 
@@ -596,9 +596,9 @@ The goal is not to take from pensioners — many are poor. It's ensuring wealth 
 
 ### A Note to England
 
-If you're English and reading this: **you should want us to go.**
-
-Not because we hate you — we don't. But staying together isn't working for either of us.
+> 📖 If you're English and reading this: **you should want us to go.**
+>
+> Not because we hate you — we don't. But staying together isn't working for either of us.
 
 **What England gains from Scottish independence:**
 - **An English Parliament** — decisions without constitutional awkwardness
@@ -615,11 +615,9 @@ The EU question is fair. But Ireland manages a land border while in the EU. It's
 
 If you're angry about housing, wages, and broken services — that anger is justified. But Reform UK is part of the problem wearing a different hat.
 
-**Follow the money:**
-- Three-quarters of funding from just three wealthy men
-- Half of donations from people with offshore interests
-- Farage: Dulwich College, City commodities trader
-- Tice: Property developer worth £40m
+> ⚠️ **Follow the money:**
+>
+> Three-quarters of Reform UK's funding comes from just three wealthy men. Half of all donations come from people with offshore interests. Nigel Farage went to Dulwich College and worked as a City commodities trader. Richard Tice is a property developer worth £40m.
 
 **Their policies:**
 - Tax cuts benefiting the wealthy
@@ -688,7 +686,7 @@ The question is not whether this is possible. It is whether we have the politica
 
 A Scotland where people work four days, keep more of what they earn, never worry about housing or healthcare, and have time for what makes life worth living.
 
-**That Scotland is within reach. The resources are ours. The technology exists. All that remains is the choice to build it.**
+> 🔑 **That Scotland is within reach.** The resources are ours. The technology exists. All that remains is the choice to build it.
 
 > *"The goal and objective of all economic policy should be collective wellbeing."*
 > — Nicola Sturgeon, Wellbeing Economy Alliance, 2020
