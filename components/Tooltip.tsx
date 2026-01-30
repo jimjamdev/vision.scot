@@ -119,15 +119,15 @@ export function Tooltip({ term, data, children }: TooltipProps) {
           </p>
 
           {data.funding_source && (
-            <div className="text-xs text-slate-500 dark:text-slate-400 border-t border-slate-100 dark:border-slate-700 pt-3 mt-3">
-              <span className="font-semibold text-rose-600 dark:text-rose-400">Funding:</span>{' '}
+            <div className="text-sm bg-rose-50 dark:bg-rose-900/30 text-rose-700 dark:text-rose-300 border border-rose-200 dark:border-rose-800 rounded-lg p-3 mt-3">
+              <span className="font-bold">Funding:</span>{' '}
               {data.funding_source}
             </div>
           )}
 
           {data.relevance && (
-            <div className="text-xs text-sky-600 dark:text-sky-400 mt-2">
-              <span className="font-semibold">Why it matters:</span>{' '}
+            <div className="text-sm bg-sky-50 dark:bg-sky-900/30 text-sky-700 dark:text-sky-400 border border-sky-200 dark:border-sky-800 rounded-lg p-3 mt-3">
+              <span className="font-bold">Why it matters:</span>{' '}
               {data.relevance}
             </div>
           )}
