@@ -4,13 +4,15 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "npm run generate-pdf && next build",
+    "build": "next build",
+    "build:local": "npm run generate-pdf && next build",
     "generate-pdf": "node scripts/generate-pdf.mjs",
     "start": "next start",
     "lint": "eslint"
   },
   "dependencies": {
     "@radix-ui/react-popover": "^1.1.15",
+    "@vercel/analytics": "^1.6.1",
     "md-to-pdf": "^5.2.5",
     "next": "16.1.6",
     "react": "19.2.3",
