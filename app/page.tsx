@@ -150,10 +150,10 @@ export default function Home() {
             {benefits.map((benefit, i) => (
               <div
                 key={i}
-                className="group p-6 bg-slate-50 dark:bg-slate-800 rounded-2xl hover:bg-white dark:hover:bg-slate-700 transition-all hover:shadow-xl border border-transparent hover:border-sky-200 dark:hover:border-sky-800"
+                className="group p-6 bg-slate-50 dark:bg-slate-800 rounded-2xl hover:bg-white dark:hover:bg-slate-700 transition-all hover:shadow-xl border border-transparent hover:border-sky-200 dark:hover:border-sky-800 flex flex-col h-full"
               >
-                <div className="flex items-start gap-4">
-                  <div className="p-3 bg-sky-100 dark:bg-sky-900/50 rounded-xl text-sky-600 dark:text-sky-400 group-hover:scale-110 transition-transform">
+                <div className="flex items-start gap-4 flex-1 pb-4">
+                  <div className="p-3 bg-sky-100 dark:bg-sky-900/50 rounded-xl text-sky-600 dark:text-sky-400 group-hover:scale-110 transition-transform flex-shrink-0">
                     {benefit.icon}
                   </div>
                   <div className="flex-1">
@@ -165,9 +165,9 @@ export default function Home() {
                     </p>
                   </div>
                 </div>
-                <div className="mt-4 pt-4 border-t border-slate-200 dark:border-slate-700 flex items-baseline gap-2">
-                  <span className="text-3xl font-bold text-sky-600 dark:text-sky-400">{benefit.stat}</span>
-                  <span className="text-sm text-slate-500 dark:text-slate-400">{benefit.statLabel}</span>
+                <div className="mt-auto pt-5 border-t border-slate-200 dark:border-slate-700 text-center">
+                  <div className="text-3xl font-bold text-sky-600 dark:text-sky-400">{benefit.stat}</div>
+                  <div className="text-sm text-slate-500 dark:text-slate-400 mt-1">{benefit.statLabel}</div>
                 </div>
               </div>
             ))}
