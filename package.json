@@ -5,8 +5,10 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "build:local": "npm run generate-pdf && next build",
+    "build:local": "npm run generate-assets && next build",
+    "generate-assets": "npm run generate-pdf && npm run generate-images",
     "generate-pdf": "node scripts/generate-pdf.mjs",
+    "generate-images": "node scripts/generate-images.mjs",
     "start": "next start",
     "lint": "eslint"
   },
